@@ -3,7 +3,7 @@ dependencies:
   - python=3.6
   - pip
   - mkl=2019.3
-  - numpy=1.16
+  - numpy=1.17
   - scikit-image
   - numba>=0.43.1
   - pyqt
